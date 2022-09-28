@@ -1,0 +1,15 @@
+C:\Users\Алейников Константин\Desktop\Lession_8_5\bin\Debug\net6.0\Lession_8_5.exe
+C:\Users\Алейников Константин\Desktop\Lession_8_5\bin\Debug\net6.0\Lession_8_5.deps.json
+C:\Users\Алейников Константин\Desktop\Lession_8_5\bin\Debug\net6.0\Lession_8_5.runtimeconfig.json
+C:\Users\Алейников Константин\Desktop\Lession_8_5\bin\Debug\net6.0\Lession_8_5.dll
+C:\Users\Алейников Константин\Desktop\Lession_8_5\bin\Debug\net6.0\Lession_8_5.pdb
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.csproj.AssemblyReference.cache
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.AssemblyInfoInputs.cache
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.AssemblyInfo.cs
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.csproj.CoreCompileInputs.cache
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.dll
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\refint\Lession_8_5.dll
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.pdb
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\Lession_8_5.genruntimeconfig.cache
+C:\Users\Алейников Константин\Desktop\Lession_8_5\obj\Debug\net6.0\ref\Lession_8_5.dll
